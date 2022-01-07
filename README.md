@@ -1,4 +1,4 @@
-<p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p>
+<!-- <p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p> -->
 
 
 <h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><b>Chris</b> here</h1>
