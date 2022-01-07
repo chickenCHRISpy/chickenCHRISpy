@@ -1,4 +1,4 @@
-<!-- <p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p> -->
+<p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p>
 
 
 <h1 align="center">Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><b>Chris</b> here</h1>
@@ -13,16 +13,17 @@
   
 - 👾 **Blockchain** Enthusiast.
 
-- 👯 Thriving 💪 **MERN STACK DEV** & looking to collaborate on **OpenSource Projects**
+- 👯 Thriving 💪 **MERN STACK DEV** & looking to collaborate🤝 on **OpenSource Projects**
 
-- 📫 How to reach me **chrislopes1718@gmail.com**
+- 📫 Reach me here ➡ **chrislopes1718@gmail.com**
 
-- ⚡ Fun fact **I play football and love reading.**
+- ⚡ Fun fact **I play football⚽ and love reading📚.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
