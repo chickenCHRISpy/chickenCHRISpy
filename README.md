@@ -1,6 +1,6 @@
 <!-- <p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p> -->
 
-<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,</h1>
+<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm <b>Chris</b>, a Third Year I.T. engineer from India.</h3>
 
 
