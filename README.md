@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.** 
   
-- 👾 **Blockchain** Enthusiast.
+- 👾 **Blockchain** Enthusiast with deep understanding of Computer Networks 🕸 and Operating Systems 🛠.
 
 - 👯 Thriving 💪 **MERN STACK DEV** & looking to collaborate🤝 on **OpenSource Projects**
 
