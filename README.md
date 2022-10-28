@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently mastering **[React-Native](https://courses.learncodeonline.in/learn/home/Complete-React-Native-Mobile-App-developer/section/152586/lesson/801636)**
+- 🔭 I’m currently mastering💯 **[React-Native](https://courses.learncodeonline.in/learn/home/Complete-React-Native-Mobile-App-developer/section/152586/lesson/801636)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.** 
+- 🌱 I’m currently learning **Redux, Cloud and Linux** 
   
-- 👾 **Blockchain** Enthusiast with deep understanding of Computer Networks 🕸 and Operating Systems 🛠.
+- 👾 Love **Troubleshooting** with deep understanding of Computer Networks🕸 and Operating Systems🛠.
 
-- 👯 Thriving 💪 **MERN STACK DEV** & looking to collaborate🤝 on **OpenSource Projects**
+- 👯 Thriving💪 **Site/System Reliability Engineer**⚙ & looking to expand my horizons🌈 on **Cloud and DevOps**☁
 
 - 📫 Reach me here ➡ **chrislopes1718@gmail.com**
 
